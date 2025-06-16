@@ -65,3 +65,8 @@ A simulated dataset of 1,000 healthcare insurance claims was created with:
 
 ---
 
+I analyzed medical insurance claims to figure out why some claims get rejected. I used Python to look at patterns in the data like the type of insurance, the amount billed, and the codes used to see what’s causing the rejections.
+
+Then I built a machine learning model that could predict whether a claim would be approved or rejected. I found that the billing amount was the biggest factor in rejections.
+
+This project helped me practice real-world data analysis, build a predictive model, and understand how data can be used to improve healthcare processes.
