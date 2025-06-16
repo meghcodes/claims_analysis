@@ -14,7 +14,7 @@ To:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (pandas, matplotlib, scikit-learn)
 - **Google Colab** (for running notebooks online)
